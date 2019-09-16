@@ -1,0 +1,22 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="AUTODETECT_INDENTS" value="false" />
+    <MarkdownNavigatorCodeStyleSettings>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="KEEP_BLANK_LINES" value="1" />
+      <option name="VERBATIM_MINIMIZE_INDENT" value="true" />
+      <option name="CODE_FENCE_MINIMIZE_INDENT" value="true" />
+      <option name="CODE_FENCE_MATCH_CLOSING_MARKER" value="true" />
+      <option name="CODE_FENCE_MARKER_TYPE" value="1" />
+      <option name="TOC_FORMAT_ON_SAVE" value="true" />
+      <option name="TOC_HEADING_LEVELS" value="124" />
+      <option name="TOC_GENERATE_NUMBERED_LIST" value="true" />
+      <option name="RIGHT_MARGIN" value="-1" />
+    </MarkdownNavigatorCodeStyleSettings>
+    <codeStyleSettings language="Markdown">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="2" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>
